@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ansh Rajpal from India<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning javascript<br>- ⚡ In my free time I code ;)</p>
+<p align="left">I'm Ansh Rajpal from India<br><br>- 🔭 I’m working as a student<br>- 📚 Aspiring to combine finance and code :)<br>- ⚡ In my free time I code ;)</p>
 
 ###
 
